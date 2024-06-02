@@ -1,0 +1,13 @@
+{
+  
+    "Pavlov Server 1": {
+        "path": "/home/steam/pavlovserver000/Pavlov/Saved/Logs/Pavlov.log",
+        "channel_id": CHANNEL_ID_1
+    },
+  
+    "Pavlov Server 2": {
+        "path": "/home/steam/pavlovserver001/Pavlov/Saved/Logs/Pavlov.log",
+        "channel_id": CHANNEL_ID_2
+    }
+  
+}
