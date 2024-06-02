@@ -1,5 +1,5 @@
 # Rcon2Discord Bot
-
+![Rcon2Discord Logo](https://github.com/JTWP-org/rcon2discord/blob/main/image.png)
 This is a Discord bot that monitors log files for game servers, extracts RCON commands from the logs, and sends this information to specified Discord channels.
 
 ## Features
